@@ -1,6 +1,6 @@
 # Book Recommendation System
 ### Check Out The Notion Document On Book Recommendation System Here:
-<a href=https://www.notion.so/Building-a-Book-Recommendation-System-23b131df4b8a4dada101865908dc3f0a>Book Recommendation System</a>
+<a href=https://www.notion.so/Building-a-Book-Recommendation-System-23b131df4b8a4dada101865908dc3f0a</a>
 ## Description:
 <p>A Book Recommendation System which recommends the users a selection of books based on their interests.</p>
 <p>Data used for this project was taken from <a href=http://www2.informatik.uni-freiburg.de/~cziegler/BX/>here</a></p>
