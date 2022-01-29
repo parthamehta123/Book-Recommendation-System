@@ -1,0 +1,4 @@
+Book-Ratings.csv filter=lfs diff=lfs merge=lfs -text
+Users.csv filter=lfs diff=lfs merge=lfs -text
+Books.csv filter=lfs diff=lfs merge=lfs -text
+Datasets/Books.csv filter=lfs diff=lfs merge=lfs -text
